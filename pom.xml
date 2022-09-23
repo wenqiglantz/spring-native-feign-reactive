@@ -187,7 +187,6 @@
 						<configuration>
 							<mode>native-agent</mode>
 							<removeSpelSupport>true</removeSpelSupport>
-							<mainClass>com.github.wenqiglantz.service.demo.DemoApplication</mainClass>
 						</configuration>
 						<executions>
 							<!--<execution>
