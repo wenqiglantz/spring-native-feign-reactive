@@ -1,5 +1,5 @@
 # Need lines below (line 2-13) to trigger spring-cloud function to run the CustomRuntimeEventLoop
-# to set custom runtime for AWS Lambda as it doesn't support Java 17 yet,
+# to set custom runtime for AWS Lambda as it doesn't support Java 17 yet.
 spring:
   main:
     banner-mode: off
@@ -22,5 +22,5 @@ demo:
     max-retry: 3
     retry-interval: 3000
   urls:
-    base-url: https://#####.io/api
+    base-url: https://#########.com/api
     create-demo-record-url: /records
