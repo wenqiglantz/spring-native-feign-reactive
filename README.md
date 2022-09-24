@@ -1,6 +1,6 @@
 # Spring Native Feign Reactive
 
-Sample app to experiment Spring Boot 3.0.0-M5, with native support built in, and Spring Cloud Function, Feign Reactive.
+Spring Boot 3.0.0-M5 app, with native support built in, and Spring Cloud Function, Feign Reactive.
 
 
 ### Tech Stack
