@@ -1,8 +1,8 @@
-package com.github.wenqiglantz.service.demo.dataresidency.functions;
+package com.github.wenqiglantz.service.demo.functions;
 
-import com.github.wenqiglantz.service.demo.dataresidency.data.DemoRequest;
-import com.github.wenqiglantz.service.demo.dataresidency.data.DemoResponse;
-import com.github.wenqiglantz.service.demo.dataresidency.democlient.DemoClient;
+import com.github.wenqiglantz.service.demo.data.DemoRequest;
+import com.github.wenqiglantz.service.demo.data.DemoResponse;
+import com.github.wenqiglantz.service.demo.democlient.DemoClient;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;

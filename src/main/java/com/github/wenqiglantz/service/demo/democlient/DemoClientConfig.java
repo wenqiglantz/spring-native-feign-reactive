@@ -1,4 +1,4 @@
-package com.github.wenqiglantz.service.demo.dataresidency.democlient;
+package com.github.wenqiglantz.service.demo.democlient;
 
 import feign.RetryableException;
 import lombok.Data;

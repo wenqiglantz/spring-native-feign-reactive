@@ -1,4 +1,4 @@
-package com.github.wenqiglantz.service.demo.dataresidency.data;
+package com.github.wenqiglantz.service.demo.data;
 
 import lombok.Data;
 

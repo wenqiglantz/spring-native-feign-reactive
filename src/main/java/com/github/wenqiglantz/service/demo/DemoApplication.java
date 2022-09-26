@@ -1,6 +1,6 @@
-package com.github.wenqiglantz.service.demo.dataresidency;
+package com.github.wenqiglantz.service.demo;
 
-import com.github.wenqiglantz.service.demo.dataresidency.democlient.DemoClient;
+import com.github.wenqiglantz.service.demo.democlient.DemoClient;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import reactivefeign.spring.config.EnableReactiveFeignClients;

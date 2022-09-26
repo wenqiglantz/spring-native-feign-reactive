@@ -1,7 +1,7 @@
-package com.github.wenqiglantz.service.demo.dataresidency.democlient;
+package com.github.wenqiglantz.service.demo.democlient;
 
-import com.github.wenqiglantz.service.demo.dataresidency.data.DemoRequest;
-import com.github.wenqiglantz.service.demo.dataresidency.data.DemoResponse;
+import com.github.wenqiglantz.service.demo.data.DemoRequest;
+import com.github.wenqiglantz.service.demo.data.DemoResponse;
 import org.springframework.web.bind.annotation.*;
 import reactivefeign.spring.config.ReactiveFeignClient;
 import reactor.core.publisher.Mono;
